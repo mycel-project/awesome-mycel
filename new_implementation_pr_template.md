@@ -8,6 +8,7 @@ If anything seems outdated (especially in the features section), feel free to re
 - Latest tested and working Mycel version (MAJOR.MINOR) :
 - License (if any) : 
 - Project repository: 
+- Programming language: 
 
 ## Architecture type
 - [ ] Plugin-based
@@ -30,6 +31,8 @@ If anything seems outdated (especially in the features section), feel free to re
 - [ ] Auto toast when Mycel version in incompatible
 - [ ] Auto toast when new Mycel version is available
 - [ ] Markdown viewer/editor (if it is partial, don't hesitate to add details)
+- [ ] Latex support
+- [ ] Handle timezones
 - [ ] Node extraction (into fragments and spores)
 - [ ] Node tree view
 - [ ] Actions on nodes (delete, dismiss, ...)
